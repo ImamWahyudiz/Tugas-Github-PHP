@@ -1,0 +1,16 @@
+Nama    : Muhammad Rosyid Ridho Abdillah
+Nim     : 25106050101
+
+- Figma adalah aplikasi desain antarmuka (UI/UX) berbasis cloud dan browser yang digunakan untuk
+membuat prototipe, desain situs web, aplikasi seluler, dan aset digital lainnya. 
+Figma terkenal dengan fitur kolaborasi real-time yang memungkinkan banyak desainer bekerja pada 
+file yang sama secara bersamaan, sehingga sangat populer di kalangan tim desain produk modern.
+
+- VS Code (Visual Studio Code) adalah editor kode sumber gratis dari Microsoft yang mendukung 
+berbagai bahasa pemrograman seperti JavaScript, Python, C++, dan lainnya. 
+VS Code memiliki fitur seperti debugging, integrasi Git, ekstensi, dan IntelliSense 
+(auto-complete dan saran kode), serta dapat dijalankan di Windows, macOS, dan Linux.
+
+-GitHub adalah platform berbasis web untuk menyimpan, mengelola, dan berkolaborasi pada kode 
+sumber menggunakan sistem kontrol versi Git. GitHub memungkinkan pengembang untuk bekerja sama dalam
+proyek, melacak perubahan kode, mengelola isu (issues), dan melakukan review kode secara online.
