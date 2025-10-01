@@ -1,0 +1,55 @@
+Nama: Devrio Dwi Anggoro
+NIM:25106050049
+Kelompok:  PHP
+
+Aplikasi desain UI/UX berbasis vektor. Penyimpanan Figma berbasis cloud, jadi bisa akses di mana saja, langsung kolaborasi secara real time.
+Posisi Figma di industri: Design dan Technology.
+Figma sudah terkenal di kalangan industri. Figma sangat cocok untuk tim yang tersebar (remote).
+
+Prinsip dasar UI Design: C.R.A.P
+
+Contrast = establish hierarchy
+Repetition = consistency, reduces confusion
+Alignment = organized elements
+Proximity = makes elements seem related
+
+Prinsip dasar UX Design: Laws of UX
+
+Hick’s Law = Tidak terlalu banyak pilihan (go/decision easier)
+Fitts’s Law = Mengatur jarak dan size supaya fungsi lebih mudah diakses
+Miller’s Law = Membatasi sebuah elemen 7 ± 2 dalam sekali waktu
+Jakob’s Law = Lakukan yang familiar dengan orang-orang
+
+Apa itu VSCode?
+
+VSCode adalah code editor. VSCode dikembangkan oleh Microsoft.
+
+Kelebihan VSCode:
+
+-Populer
+-Gratis dan Open Source
+-Ringan tapi powerful
+-Cross Platform
+-Ekstensi lengkap
+-Dukungan komunitas luas
+-Dll
+
+Apa itu Git?
+
+Git adalah sistem kontrol versi terdistribusi.
+
+Kelebihan Git:
+Populer
+Gratis dan Open Source
+Bisa kerja bareng tanpa tabrakan
+
+Apa itu GitHub?
+
+GitHub adalah platform penyimpanan perangkat lunak berbasis cloud yang digunakan untuk menyimpan, mencari, dan berkolaborasi dalam pengembangan.
+
+Kelebihan GitHub:
+
+Populer
+Kode aman di cloud
+Bisa share project
+Memiliki sistem tim
