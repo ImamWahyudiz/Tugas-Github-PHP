@@ -1,0 +1,68 @@
+NAMA : Hanum Maghfirah Insani
+NIM  : 25106050085
+
+FIGMA ADALAH :App desain ui/ux basis vektor (kalo di zoom gak akan pecah) berjalan di browser.
+  // KEUNGGULANNYA  FIGMA//
+
+   => Berbasic cloud ada juga versi desktop dan bisa di akses offline tapi gak akan ke save di cloud figma. (save otomatis)
+   => Bisa colab real time
+   => Punya fitur prototyping: bisa membuat tampilan antarmuka/desain jadi interaktif
+   => Tools paling populer saat ini untuk desain ui/ux, Terutama di perusahaan. teknologi/desain.
+   => Figma vs adobe xd vs sketh.
+   => Contrast:perbedaan
+   => Repettion:perulangan
+   => Aligment:perataan
+   => Proximity:pengelompokan
+*Laws of ux
+   => Hicks Laws:waktu yang dipakai user untuk memilih agar tidak bingung.
+   => Fits's law:Aturan peletakan tombol utama agar user tidak kesulitan.
+   => Milliers law:Rata rata orang mengingat hanya 7+2 elemen. nanti user kebingungan.lebih sedikit pilihan.
+   => Jakobs law:jangan terlalu ngide pengen buat yang baru atau beda.
+*Principle design
+   => Emphais:penekanan.
+   => Typography:teks,font.
+   => Color:pemilihan warna. (60%,30%,10%)
+   => White space:ruang nafas/kosong agar tidak terlalu penuh.
+
+VSCODE :App untuk membantu proses pengembangan aplikasi yang di kembangkan oleh microsoft.
+Pg charm, sublime text, note pad ++
+  // KEUNGGULANNYA VSCODE //
+   =>  populer
+   => Gratis dan open source
+   => Ringan tapi powerfull
+   => Cross - platform - bisa di pake di beberapa sistem operasi
+   => Ektensi lengkap
+   => Dukungan komutas besar
+   => Dll.
+# source control: melacak codingan
+# ext live: buat menampilkan hasil coding.
+
+GIT :Sistem kontrol versi distribusi untuk melacak perubahan proyek, berkolaborasi dalam tim dan menyampai riwayat versi proyek sebelahnya.
+  // KEUNGGULANNYA GIT //
+   => Populer (standar industri global)
+   => Gratis
+   => Bisa kerja bareng tanpa tabrakan
+   => Bisa mengatur dan melacak versi coote
+   => Croos platform
+   => Dll
+*Git init/clone
+   => Commit
+   => Config
+   => Remote
+   => Reset
+   => Branch
+
+GITHUB :Untuk mengumpan, melacak dan berkolaborasi secara online. Menggunakan sistem kontrol versi git.
+  // KEUNGGULANNYA GITHUB //
+   => Populer
+   => Semua code aman di cloud
+   => Bisa kerja tim lintas tempat
+   => Dll.
+Git branch main itu terbaru 
+kalau master itu dulu
+
+1. fork
+2. done
+3. edit
+4. git add & Commit
+5. minta persetujuan
