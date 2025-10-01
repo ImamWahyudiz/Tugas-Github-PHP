@@ -1,0 +1,29 @@
+Nama : Harlang Bima Nugroho
+NIM : 25106050067
+
+Ringkasan OSJUR WEEK 1 
+
+1. Figma itu semacam aplikasi buat desain tampilan aplikasi dan website. Karena berbasis vektor, desainnya nggak akan pecah walau di-zoom. Plus, karena semua berbasis cloud, hasil kerja otomatis tersimpan dan bisa dikerjain bareng-bareng sama tim.
+
+Kelebihan paling kerasa: bisa kolaborasi real-time, jadi kayak ngerjain Google Docs tapi versi desain.
+
+Di dunia kerja: Figma udah jadi senjata andalan desainer UI/UX di banyak perusahaan.
+
+Dasar-dasar UX yang sering dipakai: Hick’s Law, Fitts’s Law, Miller’s Law, sama Jakob’s Law.
+
+Tambahan prinsip desain: tipografi, pemilihan warna, dan penggunaan white space biar desain lebih rapi.
+
+2. VS Code & GitHub
+Kalau Figma buat desain, VS Code itu editor kode favorit programmer. Dibuat Microsoft, aplikasi ini bisa dipakai di Windows, Mac, sampai Linux.
+
+Kenapa disukai?
+
+Bisa jalan di banyak platform.
+
+Udah ada Git bawaan, jadi gampang buat version control.
+
+Banyak ekstensi buat bahasa dan framework.
+
+Ringan dipakai.
+
+Ada fitur debugging yang bikin error lebih gampang dilacak.
