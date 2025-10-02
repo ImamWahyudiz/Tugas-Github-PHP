@@ -1,0 +1,14 @@
+NAMA: LAZUARDI ILMI DIENDHI
+NIM: 25106050103
+
+Pengertian Figma
+
+Figma adalah sebuah aplikasi desain berbasis online yang bisa dipakai langsung di browser tanpa perlu instal software yang berat. Figma banyak dipakai untuk membuat desain UI (User Interface), misalnya desain aplikasi, website, atau poster. Kelebihannya, Figma bisa digunakan bersama-sama dengan tim secara real-time, jadi satu desain bisa dikerjakan bareng-bareng tanpa harus kirim file bolak-balik.
+
+Selain itu, Figma juga punya fitur komponen reusable, yaitu komponen yang bisa dipakai berulang kali. Misalnya kalau bikin tombol atau navbar, kita cukup bikin sekali, lalu bisa dipakai di banyak halaman tanpa harus mendesain ulang. Ada juga library yang bisa dishare ke seluruh tim supaya semua anggota tim punya komponen yang sama, jadi desain lebih konsisten.
+
+Figma juga menyediakan fitur Styles, yaitu tempat untuk menyimpan warna, jenis teks, dan efek tertentu. Dengan adanya styles ini, tampilan desain jadi lebih rapi dan seragam. Misalnya warna utama aplikasi cukup disimpan sekali di styles, lalu dipakai berulang-ulang. Kalau suatu hari ingin ganti warna, cukup ubah di styles, maka semua desain yang memakai warna itu akan otomatis berubah.
+
+Salah satu fitur yang paling keren di Figma adalah Auto Layout. Fitur ini membuat desain jadi lebih fleksibel dan responsif. Misalnya ketika menambahkan teks panjang ke dalam tombol, ukuran tombol bisa otomatis menyesuaikan panjang teksnya. Atau ketika menambah elemen baru ke dalam layout, semua elemen akan otomatis merapikan diri tanpa perlu diatur satu-satu.
+
+Secara sederhana, Figma itu seperti "kanvas digital" yang pintar, modern, dan cocok banget dipakai anak SMA sampai profesional untuk belajar maupun bekerja dalam bidang desain.
