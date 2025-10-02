@@ -1,0 +1,22 @@
+Nama: Fardhan Raditya Fahrezky Pasya.
+Hobi: main game.
+Halo!! aku peserta gugus PHP.
+Aku prodi Informatika UIN Sunan Kalijaga Yogyakarta.
+
+Figma: Figma adalah alat desain berbasis cloud yang digunakan untuk membuat 
+antarmuka pengguna, prototipe, dan grafik. Figma memungkinkan banyak orang 
+berkolaborasi secara real-time dalam satu proyek desain.
+
+Git: Git adalah sistem kontrol versi yang membantu pengembang melacak perubahan
+pada kode, berkolaborasi dengan orang lain, dan mengelola berbagai versi proyek 
+secara efisien.
+
+GitHub: GitHub adalah platform berbasis web untuk menyimpan repositori Git. 
+GitHub menyediakan alat untuk kolaborasi, review kode, pelacakan masalah, 
+dan manajemen proyek, sehingga memudahkan tim bekerja sama dalam pengembangan 
+perangkat lunak.
+
+VS Code (Visual Studio Code): VS Code adalah editor kode gratis dan open-source 
+yang dikembangkan oleh Microsoft. VS Code mendukung banyak bahasa pemrograman, 
+memiliki banyak ekstensi, serta fitur seperti debugging, penyorotan sintaks, 
+dan terminal terintegrasi untuk meningkatkan produktivitas pengembang.
