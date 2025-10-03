@@ -1,0 +1,55 @@
+NAMA: Muhammad Hamzah Al Asad
+NIM : 25106050027
+
+Rangkuman materi:
+    1. Figma
+        = sebuah aplikasi desain UI/ UX berbasis vektor(kalo di zoom ga bakal pecah) dan karena berbasis cloud,
+        seua pekerjaan design bisa auto tersimpan dan bisa dikerjakan bersama sama
+
+        -> Keunggulan Figma
+            - kolaborasi real time : semua orang bisa mengerjakan 1 file pekerjaan secara bersama sama
+
+        -> Posisi figma di industri design dan teknologi
+            - Figma menjadi salah satu tools paling populer saat ini untuk design UM/ UX terutama di perusahaan
+
+        -> prinsip dasar UX design laws of UX
+            - kick's law
+            - fitts law 
+            - millor's law
+            - jacob's law
+
+        -> another design principle
+            - typing apply
+            - color
+            - white space
+
+    2. VS CODE dan Git Hub
+        > VS CODE
+        = VS CODE atau (Visual Studio Code) adalah code editor buatan Microsoft. Aplikasi ini banyak
+        digunakan oleh programmer di berbagai sistem operasi seperti Windows, Linux, dan macOS.
+
+        -> Keunggulan VS CODE
+            - cross platform : bisa dipakai di selain Windows.
+            - Integrasi Git : mendukung version control secara langsung tanpa perlu aplikasi tambahan.
+            - Banyak ekstensi : mendukung berbagai bahasa dan framework.
+            - ringan dan cepat : aplikasinya tegolong ringan dan lancar.
+            - debugging bawaan : memudahkan dalam mendeteksi dan membenarkan kode.
+
+        > Git
+        = sistem kontrol versi terdistribusi yang yang digunakan atau pengembang.
+
+        -> Keunggulan git 
+            - populer : standar industri global
+            - gratis
+            - bisa mengatur dan melacak
+            - cross platform
+            - dll
+
+        > Github
+        = platform pengembangan perangkat lunak berbasis cloud yang digunakan developer
+
+        -> keunggulan Github
+            - populer
+            - semua kode aman di cloud
+            - bisa korsa tim lintas tempat
+            - dll
